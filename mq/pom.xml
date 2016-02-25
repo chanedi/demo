@@ -15,6 +15,7 @@
         <module>kafka</module>
         <module>activemq</module>
         <module>rabbitmq</module>
+        <module>activemq</module>
     </modules>
 
 
