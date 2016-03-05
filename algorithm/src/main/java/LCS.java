@@ -1,5 +1,6 @@
 /**
  * Created by Chanedi on 2016/3/1.
+ * 最长公共子串
  */
 public class LCS {
 
