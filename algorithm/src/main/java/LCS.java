@@ -32,7 +32,7 @@ public class LCS {
     }
 
     public static void main(String[] args) {
-        System.out.println(calculate("43egologle"));
+        System.out.println(calculate("abcdba"));
     }
 
 }
